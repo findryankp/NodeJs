@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "belajar nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "heh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Findryankp/NodeJs.git"
+  },
+  "author": "Findryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Findryankp/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Findryankp/NodeJs#readme"
+}
